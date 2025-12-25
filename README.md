@@ -27,7 +27,6 @@ Finding the perfect movie to watch can be a challenge. This project uses **Machi
 4. **Similarity Calculation:** Applied **Cosine Similarity** to measure the distance between movie vectors. 
 5. **Pickling:** Exported the processed data and similarity matrix as `.pkl` files for the web app.
 
-
  📂 Project Structure
 ├── app.py              # Streamlit web application
 ├── movies.pkl          # Processed movie list (Serialized)
